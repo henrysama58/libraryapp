@@ -224,7 +224,7 @@ header {
 }
 
 #highlights:before {
-    background: url('/assets/wave.svg');
+    background: url('assets/wave.svg');
     content: '';
     position: absolute;
     width: 101vw;
@@ -238,7 +238,7 @@ header {
 }
 
 #highlights:after {
-    background: url('/assets/wave.svg');
+    background: url('assets/wave.svg');
     content: '';
     position: absolute;
     width: 101vw;
